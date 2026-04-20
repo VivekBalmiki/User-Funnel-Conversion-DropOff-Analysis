@@ -59,19 +59,19 @@ The biggest drop-offs occur at:
 
 ### 1. Customer Behavior Insights
 
-![Customer Behavior](dashboards/screenshots/Customer & Behavior Insights.png)
+![Customer Behavior](dashboards/screenshots/customer_behavior_insights.png)
 
 ---
 
 ### 2. Funnel Drop-Off Diagnostics
 
-![Drop-Off](dashboards/screenshots/Funnel Drop-Off Diagnostics.png)
+![Drop-Off](dashboards/screenshots/funnel_dropoff_diagnostics.png)
 
 ---
 
 ### 3. User Funnel Performance Dashboard
 
-![Funnel Performance](dashboards/screenshots/User Funnel Performance Dashboard.png)
+![Funnel Performance](dashboards/screenshots/funnel_performance_dashboard.png)
 
 ---
 
